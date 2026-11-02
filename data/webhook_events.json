@@ -1,0 +1,18 @@
+[
+  {
+    "id": "wamid.HBgMOTE3MzcyODkzNjA3FQIAEhggQTVBRDZFRDA1NDNBNUIyMEZFNkRENDRDQjFGNjZFMUEA",
+    "type": "message",
+    "timestamp": 1793660762000,
+    "data": {
+      "from": "917372893607",
+      "id": "wamid.HBgMOTE3MzcyODkzNjA3FQIAEhggQTVBRDZFRDA1NDNBNUIyMEZFNkRENDRDQjFGNjZFMUEA",
+      "timestamp": "1793660762",
+      "text": {
+        "body": "Hii"
+      },
+      "type": "text",
+      "contactName": "dk",
+      "phoneNumberId": "896144420257317"
+    }
+  }
+]
